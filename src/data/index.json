@@ -1,0 +1,92 @@
+{
+    "skills":[
+        {
+        "id":1,
+        "src":"./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": " Proficient in HTML, CSS, JavaScript, and React JS. Skilled at creating responsive, user-friendly interfaces and adapting to new technologies.                      "
+        },
+        {
+            "id":2,
+            "src":"./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Proficient in , C#, ASP.NET, ASP.NET MVC, and SQL Server. Skilled at building scalable, high-quality solutions and adapting to new technologies. "
+            },
+            {
+                "id":3,
+                "src":"./img/feather-pen-2.png",
+                "title": "UI & UX Design",
+                "description": "My UI/UX skills include designing interactive user interfaces using Figma and Adobe XD, focusing on seamless user experiences and responsive, functional designs."
+                },
+                {
+                    "id":4,
+                    "src":"./img/feather-pen-1.png",
+                    "title": "Webflow development",
+                    "description": "I specialize in Webflow development, creating responsive and user-friendly websites with a strong focus on seamless functionality, modern design, and exceptional user experience."
+                    }
+
+                
+
+
+    ],
+    "portfolio":[
+        {
+        "id":"1",
+        "src":"./img/placeholder-image.png",
+        "title": "Ahuse",
+        "description": "Loren ipsum dolor sit amet, consectur adipiscing elir. Susdfgggffkfkfkfkfkf ",
+        "link":  "View In Github"
+        },
+        {
+            "id":"2",
+            "src":"./img/placeholder-image-1.png",
+            "title": "App Dashboard",
+            "description": "Loren ipsum dolor sit amet, consectur adipiscing elir. Susdfgggffkfkfkfkfkf ",
+            "link":  "View In Github"
+            },
+            {
+                "id":"3",
+                "src":"./img/placeholder-image-2.png",
+                "title": "Easy Rentn",
+                "description": "Loren ipsum dolor sit amet, consectur adipiscing elir. Susdfgggffkfkfkfkfkf ",
+                "link":  "View In Github"
+                }
+               
+                
+
+
+    ],
+    "testimonial":[
+        {
+        "id":"1",
+        "count":"5",
+        "src":"./img/avatar-image.png",
+        "title": "Ahuse",
+        "description": "Loren ipsum dolor sit amet, consectur adipiscing elir. Susdfgggffkfkfkfkfkf ",
+        "author_name": "Dianne Russel",
+        "author_designation":  "Starbucks"
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"./img/avatar-image-1.png",
+            "title": "Ahuse",
+            "description": "Loren ipsum dolor sit amet, consectur adipiscing elir. Susdfgggffkfkfkfkfkf ",
+            "author_name": "Kristin Watson",
+            "author_designation":  "Louis Vuitton"
+            },
+            {
+                "id":"3",
+                "count":"5",
+                "src":"./img/avatar-image-2.png",
+                "title": "Ahuse",
+                "description": "Loren ipsum dolor sit amet, consectur adipiscing elir. Susdfgggffkfkfkfkfkf ",
+                "author_name": "Kathryn Murphy",
+                "author_designation":  "McDonald's"
+                }
+               
+                
+
+
+    ]
+}
